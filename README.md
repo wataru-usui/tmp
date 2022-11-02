@@ -1,7 +1,7 @@
 # Small Portfolio
 This repository attemps to showcase raytracing programs written in C as well as (very small) Python and Type Script programs for my portfolio.
 
-As a disclaimer, Please note that the raytracing programs are not written or structured in the form readable by a third-party.
+As a disclaimer, please note that the raytracing programs are not written or structured in the form readable by a third-party.
 
 ## Implementing Raytracing Algorithms in C
 We have implemented monte carlo raytracing techniques along with miscellaneous algorithms such as psudo random number generator and spatial acceleration data structure in C.
