@@ -1,0 +1,1 @@
+raw2ppm.exe o5.raw o5.ppm

@@ -1,0 +1,1 @@
+g++.exe -std=c++14 -Wall -Ofast -march=native -mfpmath=sse -o hdr2raw.exe hdr2raw.cpp

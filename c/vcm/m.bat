@@ -1,0 +1,1 @@
+gcc -std=c11 -Wall -Ofast -march=native -mfpmath=sse -fopenmp -o o.exe src.c

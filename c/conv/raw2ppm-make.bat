@@ -1,0 +1,1 @@
+g++.exe -std=c++14 -Wall -Ofast -march=native -mfpmath=sse -o raw2ppm.exe raw2ppm.cpp

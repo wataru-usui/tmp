@@ -1,0 +1,1 @@
+gcc -std=c11 -Wall -march=native -Ofast -fopenmp -o a.exe s.c
