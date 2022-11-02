@@ -2,6 +2,7 @@
 This repository attemps to showcase raytracing programs written in C as well as (very small) Python and Type Script programs for my portfolio.
 
 As a disclaimer, Please note that the raytracing programs are not written or structured in the form readable by a third-party.
+
 ## Implementing Raytracing Algorithms in C
 We have implemented monte carlo raytracing techniques along with miscellaneous algorithms such as psudo random number generator and spatial acceleration data structure in C.
 
@@ -18,6 +19,7 @@ Our raytracer is based on the theoretical definition and formulation of light tr
 http://graphics.stanford.edu/papers/veach_thesis/
 
 https://www.pbr-book.org/3ed-2018/contents
+
 ### Implemented Algorithms
 - Vertex Connection and Merging
 
@@ -48,3 +50,7 @@ Our raytracer implements kd-tree, A spatial data structure to accelerate neighbo
 Our raytracer implements xoroshiro128+, A psuedo random number generator (PRNG).
 
 https://prng.di.unimi.it/
+
+## Implementing Small Python Program
+
+## Implementing Small Type Script Program
