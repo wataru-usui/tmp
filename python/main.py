@@ -38,7 +38,7 @@ numSimulations = 50
 numSamples = 250
 a = -4.0
 b = 5.0
-fig = go.Figure(layout=go.Layout(title="Visualizing Convergence of Monte Carlo Integration", xaxis=dict(title="Number of Samples"), yaxis=dict(title="Estimate")))
+fig = go.Figure(layout=go.Layout(title="Visualizing The Convergence of A Monte Carlo Integration", xaxis=dict(title="Number of Samples"), yaxis=dict(title="Estimate")))
 dist = Uniform(a, b)
 for i in range(numSimulations):
     xs = list(range(1, numSamples + 1))
