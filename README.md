@@ -55,8 +55,10 @@ https://prng.di.unimi.it/
 
 We have implemented a small program to visualize the convergence of a simple monte carlo integration using plotly graphing library.
 
-~~(Everything is hard coded and I know that's bad)~~
+~~(Everything is hard coded and I know that's bad.)~~
 
 ## Implementing Small Type Script Program
 
-Yet to be made.
+We have implemented a small program to print a message to the html document.
+
+~~(I did this entirely for the completeness of this repository.)~~
